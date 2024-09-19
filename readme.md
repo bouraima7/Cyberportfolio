@@ -2,6 +2,9 @@
 
 ## Project Setup
 
+- MongoDB, Express, React, Node (MERN)
+- w/ Three.JS
+
 ### Prerequisites
 - Node.js
 - MongoDB (if applicable)
