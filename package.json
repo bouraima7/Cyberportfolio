@@ -13,11 +13,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@react-three/drei": "^9.112.0",
+    "@react-three/fiber": "^8.17.7",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.21.0",
     "mongo": "^0.1.0",
-    "mongoose": "^8.6.3"
+    "mongoose": "^8.6.3",
+    "three": "^0.168.0"
   },
   "devDependencies": {
     "concurrently": "^9.0.1"
